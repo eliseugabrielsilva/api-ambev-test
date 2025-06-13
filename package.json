@@ -19,5 +19,8 @@
   "homepage": "https://github.com/eliseugabrielsilva/api-ambev-test#readme",
   "devDependencies": {
     "cypress": "^14.4.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0"
   }
 }
